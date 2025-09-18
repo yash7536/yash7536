@@ -29,9 +29,47 @@
 ---
 
 ### 🛠️ Languages & Tools  
-<div align="center">
-<!-- coding icons here (same as your original) -->
+### 🛠️ Languages & Tools  
+<div align="center" style="margin-top: 20px;">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+
+  <!-- Frameworks & Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+
+  <!-- Backend & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+
+  <!-- DevOps & Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+
+  <!-- Design Tools -->
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50" height="50" style="margin: 8px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.4)); transform: rotateX(10deg) rotateY(5deg);" /> 
 </div>
+
 
 ---
 
