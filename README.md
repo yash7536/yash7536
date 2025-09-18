@@ -1,68 +1,79 @@
 <div align="center">
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="3D Logo" width="150" height="150" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# 👋 Hi, I'm Vishnu Yash Pandey  
+# 👋 Hey there, I'm Vishnu Yash Pandey!  
 
-<h3 align="center">🚀 Building code & products with curiosity, vision, and user-first focus</h3>
+<h3 align="center">🚀 Building code & products with curiosity, creativity, and a dash of fun 😎</h3>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Vishnu+Yash+Pandey;I+Love+Code+%26+Products;Product+Management+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Vishnu+Yash+Pandey;I+💻+Code+%26+Build+Products;Product+Management+Explorer;Always+Learning+New+Things+✨" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌱 About Me
-- 🌱 Learning **Jira, Agile workflows & product analytics**  
-- 👯 Collaborating on **user-first product ideas**  
-- 🤝 Exploring **open-source contributions**  
-- 💬 Ask me about **product strategy, roadmap planning, user research**  
-- 📫 Reach me: **yashpandey3300@gmail.com**  
-- ⚡ Fun fact: **I think I’m kind of funny 😅**  
-
----
-
-### 🛠️ Languages & Tools
+### 🌱 About Me  
+- 🌱 Currently exploring **Jira, Agile workflows, and product analytics**  
+- 👯 Open to collaborating on **innovative, user-first product ideas**  
+- 🤝 Interested in **building impactful open-source projects**  
+- 💬 Ask me about **product strategy, user research & roadmaps**  
+- 📫 Reach me at: **yashpandey3300@gmail.com**  
+- ⚡ Fun fact: **I like coding, memes, and thinking I'm funny 😅**  
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
-
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" width="400" />
 </div>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 🛠️ Languages & Tools  
+<div align="center">
+<!-- coding icons here (same as your original) -->
+</div>
+
+---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash7536&show_icons=true&theme=tokyonight" alt="stats" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash7536&show_icons=true&layout=compact&theme=tokyonight" alt="langs" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash7536&theme=tokyonight" alt="streak" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=yash7536&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash7536&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash7536&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
-
+### 🌐 Connect With Me  
 <p align="center">
-<a href="https://linkedin.com/in/yashp33" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ya.sh7536" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yashp33" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ya.sh7536" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
----
-
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Connected" width="350" height="200" />
+<img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Connected GIF" width="350" />
 </div>
 
-✨ *“Blending code, product sense, and creativity to craft impactful, user-first solutions.”*
+---
+
+<!-- 3D Quote Section -->
+<div align="center">
+  <h2 style="
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 28px;
+      font-weight: bold;
+      background: linear-gradient(135deg, #FF5733, #FFC300, #DAF7A6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow:
+        2px 2px 0 rgba(0,0,0,0.25),
+        4px 4px 0 rgba(0,0,0,0.2),
+        6px 6px 0 rgba(0,0,0,0.15),
+        8px 8px 0 rgba(0,0,0,0.1);
+      transform: rotateX(8deg) rotateY(6deg);
+      display: inline-block;
+      margin-top: 20px;
+  ">
+    “Blending code, creativity & product sense to craft impactful, user-first solutions 🚀”
+  </h2>
+</div>
