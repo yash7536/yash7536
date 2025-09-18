@@ -1,88 +1,68 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="3D Logo" width="150" height="150" />
 </div>
 
-# 👋 Hey there, I'm Vishnu Yash Pandey!  
+# 👋 Hi, I'm Vishnu Yash Pandey  
 
-<h3 align="center">🚀 Building code & products with curiosity, creativity, and a dash of fun 😎</h3>
+<h3 align="center">🚀 Building code & products with curiosity, vision, and user-first focus</h3>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Vishnu+Yash+Pandey;I+💻+Code+%26+Build+Products;Product+Management+Explorer;Always+Learning+New+Things+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Vishnu+Yash+Pandey;I+Love+Code+%26+Products;Product+Management+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌱 About Me  
-- 🌱 Currently exploring **Jira, Agile workflows, and product analytics**  
-- 👯 Open to collaborating on **innovative, user-first product ideas**  
-- 🤝 Interested in **building impactful open-source projects**  
-- 💬 Ask me about **product strategy, user research & roadmaps**  
-- 📫 Reach me at: **yashpandey3300@gmail.com**  
-- ⚡ Fun fact: **I like coding, memes, and thinking I'm funny 😅**  
+### 🌱 About Me
+- 🌱 Learning **Jira, Agile workflows & product analytics**  
+- 👯 Collaborating on **user-first product ideas**  
+- 🤝 Exploring **open-source contributions**  
+- 💬 Ask me about **product strategy, roadmap planning, user research**  
+- 📫 Reach me: **yashpandey3300@gmail.com**  
+- ⚡ Fun fact: **I think I’m kind of funny 😅**  
+
+---
+
+### 🛠️ Languages & Tools
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" width="400" />
-</div>
 
----
-
-### 🛠️ Languages & Tools  
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> 
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> 
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:10px;" />
 
 </div>
 
 ---
+
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yash7536&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash7536&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash7536&theme=tokyonight" alt="Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yash7536&show_icons=true&theme=tokyonight" alt="stats" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash7536&show_icons=true&layout=compact&theme=tokyonight" alt="langs" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash7536&theme=tokyonight" alt="streak" style="box-shadow: 0 10px 30px rgba(0,0,0,0.4); border-radius:15px;" />
+
 </div>
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
+
 <p align="center">
-<a href="https://linkedin.com/in/yashp33" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ya.sh7536" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yashp33" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ya.sh7536" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
 </p>
 
+---
+
 <div align="center">
-<img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Connected GIF" width="350" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Connected" width="350" height="200" />
 </div>
 
-✨ *“Blending code, creativity & product sense to craft impactful, user-first solutions 🚀”*
+✨ *“Blending code, product sense, and creativity to craft impactful, user-first solutions.”*
