@@ -27,8 +27,7 @@
 </div>
 
 ---
-
-### 🛠️ Languages & Tools  
+  
 ### 🛠️ Languages & Tools  
 <div align="center" style="margin-top: 20px;">
   <!-- Programming Languages -->
