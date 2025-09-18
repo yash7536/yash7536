@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
-<!--
-**yash7536/yash7536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Vishnu Yash Pandey!  
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Building code & products with curiosity, creativity, and a dash of fun 😎</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Vishnu+Yash+Pandey;I+💻+Code+%26+Build+Products;Product+Management+Explorer;Always+Learning+New+Things+✨" alt="Typing SVG" />
+</div>
+
+---
+
+### 🌱 About Me  
+- 🌱 Currently exploring **Jira, Agile workflows, and product analytics**  
+- 👯 Open to collaborating on **innovative, user-first product ideas**  
+- 🤝 Interested in **building impactful open-source projects**  
+- 💬 Ask me about **product strategy, user research & roadmaps**  
+- 📫 Reach me at: **yashpandey3300@gmail.com**  
+- ⚡ Fun fact: **I like coding, memes, and thinking I'm funny 😅**  
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" width="400" />
+</div>
+
+---
+
+### 🛠️ Languages & Tools  
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> 
+<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> 
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> 
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yash7536&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash7536&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash7536&theme=tokyonight" alt="Streak Stats" />
+</div>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+<a href="https://linkedin.com/in/yashp33" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/ya.sh7536" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" alt="Connected GIF" width="350" />
+</div>
+
+✨ *“Blending code, creativity & product sense to craft impactful, user-first solutions 🚀”*
