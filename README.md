@@ -79,7 +79,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/yashp33" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/ya.sh7536" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" /></a>
-<a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 <div align="center">
